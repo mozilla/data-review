@@ -53,6 +53,8 @@
 
 * Any other filters?  Please describe in detail below.
 
-8) Please provide a general description of how you will analyze this data.
+8) If this data collection is default on, what is the opt-out mechanism for users?
 
-9) Where do you intend to share the results of your analysis?
+9) Please provide a general description of how you will analyze this data.
+
+10) Where do you intend to share the results of your analysis?
