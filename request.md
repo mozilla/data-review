@@ -59,6 +59,6 @@
 
 10) Where do you intend to share the results of your analysis?
 
-11) Is there a third-party tool that you are proposing to use for the collection of data (or measurement)? If so:
+11) Is there a third-party tool that you are proposing to use for this data collection? If so:
 
 * Are you using that on the Mozilla backend? Or going directly to the third-party?
