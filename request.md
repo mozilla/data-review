@@ -34,8 +34,14 @@
   </tr>
 </table>
 
+6) Please provide a link to the documentation for this data collection which describes the ultimate data set in a public, complete, and accurate way.
+ * Often the Privacy Notice for your product will link to where the documentation is expected to be.
+ * Common examples for Mozilla products/services:
+    * If this collection is Telemetry you can state "This collection is documented in its definitions files Histograms.json, Scalars.yaml, and/or Events.yaml and in the Probe Dictionary at https://probes.telemetry.mozilla.org."
+    * If this data is collected using the Glean SDK you can state “This collection is documented in its metrics.md document” and provide a link to where it is hosted.
+ * In some cases, documentation is included in the project’s repository.
 
-6) How long will this data be collected?  Choose one of the following:
+7) How long will this data be collected?  Choose one of the following:
 
 * This is scoped to a time-limited experiment/project until date MM-DD-YYYY.
 
@@ -43,7 +49,7 @@
 
 * I want to permanently monitor this data. (put someone’s name here)
 
-7) What populations will you measure?
+8) What populations will you measure?
 
 * Which release channels?
 
@@ -53,12 +59,12 @@
 
 * Any other filters?  Please describe in detail below.
 
-8) If this data collection is default on, what is the opt-out mechanism for users?
+9) If this data collection is default on, what is the opt-out mechanism for users?
 
-9) Please provide a general description of how you will analyze this data.
+10) Please provide a general description of how you will analyze this data.
 
-10) Where do you intend to share the results of your analysis?
+11) Where do you intend to share the results of your analysis?
 
-11) Is there a third-party tool (i.e. not Telemetry) that you are proposing to use for this data collection? If so:
+12) Is there a third-party tool (i.e. not Telemetry) that you are proposing to use for this data collection? If so:
 
 * Are you using that on the Mozilla backend? Or going directly to the third-party?
