@@ -2,7 +2,7 @@
 
 Instructions: Data Stewards will review a request for data collection and endorse responses to each question. **If the request does not provide answers to questions, reviewers give an r- and point to the questions that can’t be answered.**
 
-1) Is there or will there be **documentation** that describes the schema for the ultimate data set in a public, complete, and accurate way? (see [here](https://github.com/mozilla/activity-stream/blob/master/docs/v2-system-addon/data_dictionary.md), [here](https://github.com/mozilla-mobile/focus/wiki/Install-and-event-tracking-with-the-Adjust-SDK), and [here](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) for examples).  Refer to the appendix for "documentation" if more detail about documentation standards is needed.
+1) Is there or will there be **documentation** that describes the schema for the ultimate data set in a public, complete, and accurate way? Click the documentation link provided in Q6 and ensure it is publicly accessible and does or will contain documentation for the data collection. (see [here](https://github.com/mozilla/activity-stream/blob/master/docs/v2-system-addon/data_dictionary.md), [here](https://github.com/mozilla-mobile/focus/wiki/Install-and-event-tracking-with-the-Adjust-SDK), and [here](https://firefox-source-docs.mozilla.org/toolkit/components/telemetry/telemetry/index.html) for examples).  Refer to the appendix for "documentation" if more detail about documentation standards is needed.
 
 2) Is there a control mechanism that allows the user to turn the data collection on and off? (Note, for data collection not needed for security purposes, Mozilla provides such a control mechanism) Provide details as to the control mechanism available.
 
