@@ -20,7 +20,7 @@ If the answer to either of the first two questions is no, reviewers give an r-. 
 
 * The data includes new identifiers; OR
 
-* The data falls within the Web activity category AND is default-on.
+* The data falls within Category 3 (Stored Content & Communications) AND is default-on.
 
 8) Does there need to be a check-in in the future to determine whether to renew the data? (Yes/No) (If yes, set a todo reminder or file a bug if appropriate)**
 
