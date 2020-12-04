@@ -18,7 +18,7 @@ Here are three different examples:
 
 ## Control Mechanism.
 
-For any data collection mechanism, we want to provide a way for the user to turn on and off the collection. For example, our users can turn off Firefox telemetry and crash reporting in the Firefox preferences (see [here](https://support.mozilla.org/t5/Manage-preferences-and-add-ons/Share-telemetry-data-with-Mozilla-to-help-improve-Firefox/ta-p/7803)). We make an security features where the collection provides an immediate benefit to the user and where allowing the user to turn off the collection would place her/him at greater risk.
+For any data collection mechanism, we want to provide a way for the user to turn on and off the collection. For example, our users can turn off Firefox telemetry and crash reporting in the Firefox preferences (see [here](https://support.mozilla.org/t5/Manage-preferences-and-add-ons/Share-telemetry-data-with-Mozilla-to-help-improve-Firefox/ta-p/7803)). We make an exception for security features where the collection provides an immediate benefit to the user and where allowing the user to turn off the collection would place her/him at greater risk.
 
 ## Identifiers.
 
