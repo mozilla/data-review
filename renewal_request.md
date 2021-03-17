@@ -4,7 +4,7 @@
 
 ** All questions are mandatory.
 You must receive Data Review from a
-[Data Steward](https://wiki.mozilla.org/Firefox/Data_Collection)
+[Data Steward](https://wiki.mozilla.org/Data_Collection)
 on a filled-out Request before shipping your renewed data collection.**
 
 1) Provide a link to the initial Data Collection Review Request for this collection.

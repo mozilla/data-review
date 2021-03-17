@@ -17,7 +17,7 @@
 
 4) Can current instrumentation answer these questions?
 
-5) List all proposed measurements and indicate the category of data collection for each measurement, using the [Firefox data collection categories](https://wiki.mozilla.org/Firefox/Data_Collection) found on the Mozilla wiki.   
+5) List all proposed measurements and indicate the category of data collection for each measurement, using the [Firefox data collection categories](https://wiki.mozilla.org/Data_Collection) found on the Mozilla wiki.   
 
 **Note that the data steward reviewing your request will characterize your data collection based on the highest (and most sensitive) category.**
 
