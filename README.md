@@ -6,4 +6,4 @@ New Firefox data collection (for the client, e.g. telemetry) and services (e.g. 
 
 If you are seeking review for new data collection, please use the request.md form in this repository.  Data stewards should fill out the review.md form in this repository in response to a request.  We provide both forms so that requesters know what stewards are looking for when performing a review of a request for data collection.
 
-You can read more about the process and view a current list of data steward peers here: (https://wiki.mozilla.org/Firefox/Data_Collection)
+You can read more about the process and view a current list of data steward peers here: (https://wiki.mozilla.org/Data_Collection)
