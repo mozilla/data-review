@@ -10,7 +10,7 @@ If the answer to either of the first two questions is no, reviewers give an r-. 
 
 3) If the request is for permanent data collection, is there someone who will monitor the data over time?
 
-4) Using the **[category system of data types](https://wiki.mozilla.org/Firefox/Data_Collection)** on the Mozilla wiki, what collection type of data do the requested measurements fall under?
+4) Using the **[category system of data types](https://wiki.mozilla.org/Data_Collection)** on the Mozilla wiki, what collection type of data do the requested measurements fall under?
 
 5) Is the data collection request for default-on or default-off?
 
