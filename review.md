@@ -22,6 +22,4 @@ If the answer to either of the first two questions is no, reviewers give an r-. 
 
 * The data falls within the Web activity category AND is default-on.
 
-8) Does there need to be a check-in in the future to determine whether to renew the data? (Yes/No) (If yes, set a todo reminder or file a bug if appropriate)**
-
-9) Does the data collection use a third-party collection tool? **If yes, escalate to legal.**
+8) Does the data collection use a third-party collection tool? **If yes, escalate to legal.**
