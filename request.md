@@ -38,7 +38,7 @@
  * Often the Privacy Notice for your product will link to where the documentation is expected to be.
  * Common examples for Mozilla products/services:
     * If this collection is Telemetry you can state "This collection is documented in its definitions files Histograms.json, Scalars.yaml, and/or Events.yaml and in the Probe Dictionary at https://probes.telemetry.mozilla.org."
-    * If this data is collected using the Glean SDK you can state “This collection is documented in the Glean Dictionary at https://dictionary.protosaur.dev/"
+    * If this data is collected using the Glean SDK you can state “This collection is documented in the Glean Dictionary at https://dictionary.telemetry.mozilla.org/"
  * In some cases, documentation is included in the project’s repository.
 
 7) How long will this data be collected?  Choose one of the following:
