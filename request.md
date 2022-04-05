@@ -65,6 +65,6 @@
 
 11) Where do you intend to share the results of your analysis?
 
-12) Is there a third-party tool (i.e. not Telemetry) that you are proposing to use for this data collection? If so:
+12) Is there a third-party tool (i.e. not Glean or Telemetry) that you are proposing to use for this data collection? If so:
 
 * Are you using that on the Mozilla backend? Or going directly to the third-party?
